@@ -217,7 +217,7 @@ AI 时代正在催生一系列新的最佳实践，
 
 AI 时代对程序员最深刻的影响是重新定义了其核心价值。
 
-![AI时代程序员的核心能力有哪些转变以及需要哪些核心能力](./images/ai-RD-org-what-are-the-core-competencies-of -a-programmer.png)
+![AI时代程序员的核心能力有哪些转变以及需要哪些核心能力](./images/ai-RD-org-what-are-the-core-competencies-of-a-programmer.png)
 
 在传统模式下，程序员的日常工作主要是将产品需求转化为可执行的代码。这一过程需要大量的技术知识和编码技能，但核心活动是“实现”——把别人设计好的方案用代码实现出来。在 AI 时代，AI工具正在接管越来越多的代码实现工作，程序员的角色必须从“代码实现者”向“系统设计者”升级。
 
